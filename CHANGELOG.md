@@ -1,6 +1,26 @@
 # CHANGELOG
 
 
+## v1.2.0 (2025-01-10)
+
+### Build System
+
+- Add PSR as dev dependency
+  ([`3173096`](https://github.com/YoenCorbel/cryptobacktest/commit/31730965308cda23b21d6310abccf6c04d7dcbad))
+
+### Features
+
+- **package**: Added a volatility class to compute historical volatility as a proxy for option
+  pricing implied volatility
+  ([`8e1aa66`](https://github.com/YoenCorbel/cryptobacktest/commit/8e1aa6633da3553a583bc2e879dcc7a65519277f))
+
+- **package**: Continued the jupyter example with the next impleme
+  ([`72bde3a`](https://github.com/YoenCorbel/cryptobacktest/commit/72bde3ab4c8db50310498f97f241060bd51b87b0))
+
+- **package**: Defined more clearly my option class and added a fu
+  ([`994ea28`](https://github.com/YoenCorbel/cryptobacktest/commit/994ea28438869613eaea3b4dddd6461952255101))
+
+
 ## v1.1.0 (2025-01-10)
 
 ### Features
