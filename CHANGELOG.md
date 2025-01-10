@@ -1,6 +1,18 @@
 # CHANGELOG
 
 
+## v1.3.0 (2025-01-10)
+
+### Features
+
+- **package**: Added a volatilitysignal class to detect potential nteresting periods of low
+  volatility compared to historical one, to buy a straddle
+  ([`8e83e31`](https://github.com/YoenCorbel/cryptobacktest/commit/8e83e310d05cb1b0c8eaa8fc3f82f1e30a349f2e))
+
+- **package**: Applied our signal class to our jupyter example
+  ([`7203b77`](https://github.com/YoenCorbel/cryptobacktest/commit/7203b77be81b412174d1a0a4fcdea10dd81f4068))
+
+
 ## v1.2.0 (2025-01-10)
 
 ### Build System
