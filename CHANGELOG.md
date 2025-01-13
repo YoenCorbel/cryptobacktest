@@ -1,6 +1,31 @@
 # CHANGELOG
 
 
+## v1.4.0 (2025-01-13)
+
+### Features
+
+- **package**: A class that inherits from pybackteschain information class but adapted to our option
+  case.
+  ([`7257283`](https://github.com/YoenCorbel/cryptobacktest/commit/7257283aa3fb672c2f756f12391747a3bb812936))
+
+- **package**: A class that inherits from pybacktestchain brokerclass but adapted to our option case
+  (no SL, no short positions, etc.)
+  ([`f495e08`](https://github.com/YoenCorbel/cryptobacktest/commit/f495e088b02cc7c5b4d3521b569aae3e449cbe2d))
+
+- **package**: A class to run a backtest, it doesn't inherit from pybacktest chain as it acts as a
+  modular controller combining broker and information classes
+  ([`1c43815`](https://github.com/YoenCorbel/cryptobacktest/commit/1c4381554acef9b5bf08cc21d218d24d3150c8be))
+
+- **package**: Final version of the example; containing all necessary steps to run a backtest with
+  the different developed functions
+  ([`b22b84a`](https://github.com/YoenCorbel/cryptobacktest/commit/b22b84a674afe7fb2ae1afc6122ad4882b9a120e))
+
+- **package**: Updated the README file with the potential continuations of the project if someone is
+  interested.
+  ([`0383439`](https://github.com/YoenCorbel/cryptobacktest/commit/0383439eebf087e280e060395577e8444f41d0bb))
+
+
 ## v1.3.0 (2025-01-10)
 
 ### Features
