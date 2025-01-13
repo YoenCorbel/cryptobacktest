@@ -1,6 +1,6 @@
 # cryptobacktest
 
-A package for backtesting crypocurrencies trading strategies.
+A package for backtesting crypocurrencies straddle trading strategies on cryptocurrencies.
 
 ## Installation
 
@@ -10,7 +10,7 @@ $ pip install cryptobacktest
 
 ## Usage
 
-- TODO
+- To do: If one user would be interested to continue the project further, for me the main task would be to extract real historical data about implied volatility. Indeed it's one of the most important input of options prices and what would really say if this strategy might be profitable.
 
 ## Contributing
 
